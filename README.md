@@ -1,6 +1,6 @@
 # Olá! 👋  
 
-Meu nome é Lucas Cardoso e sou estudante de Ciência da Computação na UNIFOR.  
+Meu nome é Lucas e sou estudante de Ciência da Computação na UNIFOR.  
 Tenho interesse em desenvolvimento de software e já estudei algumas tecnologias.
 
 ---
